@@ -109,7 +109,6 @@ data/
     ├── voxceleb1.dev.meta
     └── voxceleb1.test.meta
 ```
-
 ## Stage 1: Model training
 If you want to train the model. you can use stage 1 in the `run.sh`. The code is shown below. 
 ```bash
